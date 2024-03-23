@@ -1,8 +1,8 @@
 {
-  "name"："sora"
-"ticker"："SORA"
-"discordeId"："1213160952783048726"
-"pool-list"："false"
-"poolMetaData"："https://raw.githubusercontent.com/soramade/spo/main/poolMetaData.json"
-"validation"："https://raw.githubusercontent.com/soramade/spo/main/sjg-validation.json"
+"name":"sora"
+"ticker":"SORA"
+"discordeId":"1213160952783048726"
+"pool-list":"false"
+"poolMetaData":"https://raw.githubusercontent.com/soramade/spo/main/poolMetaData.json"
+"validation":"https://raw.githubusercontent.com/soramade/spo/main/sjg-validation.json"
 }
